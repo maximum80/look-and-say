@@ -1,0 +1,16 @@
+{
+  "name" : "look-and-say",
+  "version" : "1.0.0",
+  "description" : "codecheck challenge",
+  "scripts" : {
+    "test" : "mocha"
+  },
+  "author" : "Givery",
+  "dependencies" : {
+    "minimist" : "^1.2.0"
+  },
+  "devDependencies" : {
+    "chai" : "^3.5.0",
+    "codecheck" : "^0.5.6"
+  }
+}
